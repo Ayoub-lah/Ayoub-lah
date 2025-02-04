@@ -76,7 +76,7 @@
   
 
   <a href="mailto:lhlaibiayoub@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" align="center"  alt="gmail" height="50" width="50" />
   </a>
 <a href="https://discord.com/channels/1312571181508857906/1312571182276546670" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
